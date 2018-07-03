@@ -6,7 +6,7 @@ public class CalcLogic {
 		return(a+b);
 
 	}
-	//引き算の処理
+	//引き算の処理????
 	public static int hiku(int a, int b) {
 		return(a - b);
 	}
